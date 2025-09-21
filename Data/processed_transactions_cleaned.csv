@@ -1,0 +1,502 @@
+id,text,date,amount,merchant,category,sub_category,direction
+1,Rs. 3145 spent at Amazon on 28/09/2025. Avl Bal: Rs. 46855,28/09/2025,3145.0,Amazon,Shopping,E-commerce,Debit
+2,Your salary Rs. 27789 credited to A/c XXXXX5678 on 26/09/2025,26/09/2025,27789.0,Salary,Income,Salary,Credit
+3,Rs 3230 debited towards Rent Payment on 25/09/2025,25/09/2025,3230.0,Landlord,Bills,Rent,Debit
+4,Electricity Bill Payment of Rs 2069 successful via PhonePe,--,2069.0,Phonepe,Bills,Electricity,Debit
+5,POS 05/09/2025 Dominos Pizza - INR 1797. Bal: Rs. 67548,05/09/2025,1797.0,Dominos,Food,Dining,Debit
+6,Electricity Bill Payment of Rs 1788 successful via PhonePe,--,1788.0,Phonepe,Bills,Electricity,Debit
+7,Payment of Rs 3205 made to Uber on 26/09/2025 via GPay,26/09/2025,3205.0,Uber,Transport,Ride Sharing,Debit
+8,INR 4038 withdrawn from ATM at HDFC Bank on 04/09/2025,04/09/2025,4038.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+9,Your a/c XXXXX1234 credited with INR 30875 via NEFT on 23/09/2025,23/09/2025,30875.0,Neft,Income,NEFT Transfer,Credit
+10,Payment of Rs 2664 made to Uber on 03/09/2025 via GPay,03/09/2025,2664.0,Uber,Transport,Ride Sharing,Debit
+11,POS 19/09/2025 Myntra Purchase - INR 3057. Avl Bal: Rs. 83671,19/09/2025,3057.0,Myntra,Shopping,Fashion,Debit
+12,NEFT/ICIC0001234/Transfer Received of INR 734 on 14/09/2025,14/09/2025,734.0,Neft,Income,NEFT Transfer,Credit
+13,POS 20/09/2025 Dominos Pizza - INR 4381. Bal: Rs. 80024,20/09/2025,4381.0,Dominos,Food,Dining,Debit
+14,INR 3173 withdrawn from ATM at HDFC Bank on 16/09/2025,16/09/2025,3173.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+15,Rs 1054 debited towards Rent Payment on 11/09/2025,11/09/2025,1054.0,Landlord,Bills,Rent,Debit
+16,INR 1897 withdrawn from ATM at HDFC Bank on 25/09/2025,25/09/2025,1897.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+17,Rs. 3171 spent at Amazon on 15/09/2025. Avl Bal: Rs. 70729,15/09/2025,3171.0,Amazon,Shopping,E-commerce,Debit
+18,POS 28/09/2025 Myntra Purchase - INR 3960. Avl Bal: Rs. 66769,28/09/2025,3960.0,Myntra,Shopping,Fashion,Debit
+19,INR 981 withdrawn from ATM at HDFC Bank on 09/09/2025,09/09/2025,981.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+20,Payment of Rs 1614 made to Uber on 03/09/2025 via GPay,03/09/2025,1614.0,Uber,Transport,Ride Sharing,Debit
+21,Electricity Bill Payment of Rs 1774 successful via PhonePe,--,1774.0,Phonepe,Bills,Electricity,Debit
+22,NEFT/ICIC0001234/Transfer Received of INR 57645 on 24/09/2025,24/09/2025,57645.0,Neft,Income,NEFT Transfer,Credit
+23,UPI/GooglePay credited Rs 51213 from Rahul on 19/09/2025,19/09/2025,51213.0,Googlepay,UPI,UPI Payment,Credit
+24,INR 4432 withdrawn from ATM at HDFC Bank on 20/09/2025,20/09/2025,4432.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+25,UPI/GooglePay credited Rs 13466 from Rahul on 21/09/2025,21/09/2025,13466.0,Googlepay,UPI,UPI Payment,Credit
+26,UPI/GooglePay credited Rs 20084 from Rahul on 15/09/2025,15/09/2025,20084.0,Googlepay,UPI,UPI Payment,Credit
+27,Your a/c XXXXX1234 credited with INR 45685 via NEFT on 05/09/2025,05/09/2025,45685.0,Neft,Income,NEFT Transfer,Credit
+28,Your account credited with Rs. 27554 cashback from Flipkart,--,27554.0,Flipkart,Income,Cashback,Credit
+29,Your account credited with Rs. 51192 cashback from Flipkart,--,51192.0,Flipkart,Income,Cashback,Credit
+30,Your a/c XXXXX1234 credited with INR 58686 via NEFT on 02/09/2025,02/09/2025,58686.0,Neft,Income,NEFT Transfer,Credit
+31,INR 3395 withdrawn from ATM at HDFC Bank on 02/09/2025,02/09/2025,3395.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+32,Payment of Rs 192 made to Uber on 25/09/2025 via GPay,25/09/2025,192.0,Uber,Transport,Ride Sharing,Debit
+33,Rs. 4645 spent at Amazon on 23/09/2025. Avl Bal: Rs. 375261,23/09/2025,4645.0,Amazon,Shopping,E-commerce,Debit
+34,Electricity Bill Payment of Rs 3352 successful via PhonePe,--,3352.0,Phonepe,Bills,Electricity,Debit
+35,UPI/GooglePay credited Rs 34083 from Rahul on 18/09/2025,18/09/2025,34083.0,Googlepay,UPI,UPI Payment,Credit
+36,Electricity Bill Payment of Rs 4544 successful via PhonePe,--,4544.0,Phonepe,Bills,Electricity,Debit
+37,Rs. 2516 spent at Amazon on 29/09/2025. Avl Bal: Rs. 398932,29/09/2025,2516.0,Amazon,Shopping,E-commerce,Debit
+38,Your account credited with Rs. 19393 cashback from Flipkart,--,19393.0,Flipkart,Income,Cashback,Credit
+39,Rs. 1252 debited at Zomato on 01/09/2025. Bal: Rs. 417073,01/09/2025,1252.0,Zomato,Food,Dining,Debit
+40,INR 4416 withdrawn from ATM at HDFC Bank on 24/09/2025,24/09/2025,4416.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+41,Your salary Rs. 949 credited to A/c XXXXX5678 on 19/09/2025,19/09/2025,949.0,Salary,Income,Salary,Credit
+42,Rs. 3607 spent at Amazon on 06/09/2025. Avl Bal: Rs. 409999,06/09/2025,3607.0,Amazon,Shopping,E-commerce,Debit
+43,UPI payment of Rs 3106 to PAYTM successful on 13/09/2025,13/09/2025,3106.0,Paytm,UPI,UPI Payment,Debit
+44,Rs. 703 debited at Zomato on 04/09/2025. Bal: Rs. 406190,04/09/2025,703.0,Zomato,Food,Dining,Debit
+45,POS 27/09/2025 Myntra Purchase - INR 4077. Avl Bal: Rs. 402113,27/09/2025,4077.0,Myntra,Shopping,Fashion,Debit
+46,Payment of Rs 2867 made to Uber on 11/09/2025 via GPay,11/09/2025,2867.0,Uber,Transport,Ride Sharing,Debit
+47,Payment of Rs 1772 made to Uber on 22/09/2025 via GPay,22/09/2025,1772.0,Uber,Transport,Ride Sharing,Debit
+48,UPI/GooglePay credited Rs 33169 from Rahul on 21/09/2025,21/09/2025,33169.0,Googlepay,UPI,UPI Payment,Credit
+49,UPI/GooglePay credited Rs 18683 from Rahul on 14/09/2025,14/09/2025,18683.0,Googlepay,UPI,UPI Payment,Credit
+50,Your a/c XXXXX1234 credited with INR 1675 via NEFT on 22/09/2025,22/09/2025,1675.0,Neft,Income,NEFT Transfer,Credit
+51,Your a/c XXXXX1234 credited with INR 30345 via NEFT on 30/09/2025,30/09/2025,30345.0,Neft,Income,NEFT Transfer,Credit
+52,POS 08/09/2025 Dominos Pizza - INR 2203. Bal: Rs. 479143,08/09/2025,2203.0,Dominos,Food,Dining,Debit
+53,UPI payment of Rs 4802 to PAYTM successful on 13/09/2025,13/09/2025,4802.0,Paytm,UPI,UPI Payment,Debit
+54,Payment of Rs 2682 made to Uber on 10/09/2025 via GPay,10/09/2025,2682.0,Uber,Transport,Ride Sharing,Debit
+55,Your salary Rs. 23472 credited to A/c XXXXX5678 on 03/09/2025,03/09/2025,23472.0,Salary,Income,Salary,Credit
+56,INR 316 withdrawn from ATM at HDFC Bank on 19/09/2025,19/09/2025,316.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+57,Rs 1453 debited towards Rent Payment on 09/09/2025,09/09/2025,1453.0,Landlord,Bills,Rent,Debit
+58,Rs. 3888 spent at Amazon on 06/09/2025. Avl Bal: Rs. 489474,06/09/2025,3888.0,Amazon,Shopping,E-commerce,Debit
+59,Your account credited with Rs. 2515 cashback from Flipkart,--,2515.0,Flipkart,Income,Cashback,Credit
+60,POS 02/09/2025 Myntra Purchase - INR 4553. Avl Bal: Rs. 487436,02/09/2025,4553.0,Myntra,Shopping,Fashion,Debit
+61,INR 2366 withdrawn from ATM at HDFC Bank on 29/09/2025,29/09/2025,2366.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+62,NEFT/ICIC0001234/Transfer Received of INR 37399 on 20/09/2025,20/09/2025,37399.0,Neft,Income,NEFT Transfer,Credit
+63,Your a/c XXXXX1234 credited with INR 25530 via NEFT on 17/09/2025,17/09/2025,25530.0,Neft,Income,NEFT Transfer,Credit
+64,INR 2214 withdrawn from ATM at HDFC Bank on 06/09/2025,06/09/2025,2214.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+65,POS 19/09/2025 Dominos Pizza - INR 789. Bal: Rs. 544996,19/09/2025,789.0,Dominos,Food,Dining,Debit
+66,INR 946 withdrawn from ATM at HDFC Bank on 25/09/2025,25/09/2025,946.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+67,Payment of Rs 3281 made to Uber on 09/09/2025 via GPay,09/09/2025,3281.0,Uber,Transport,Ride Sharing,Debit
+68,Your salary Rs. 19449 credited to A/c XXXXX5678 on 17/09/2025,17/09/2025,19449.0,Salary,Income,Salary,Credit
+69,Electricity Bill Payment of Rs 2766 successful via PhonePe,--,2766.0,Phonepe,Bills,Electricity,Debit
+70,Rs. 3693 debited at Zomato on 02/09/2025. Bal: Rs. 553759,02/09/2025,3693.0,Zomato,Food,Dining,Debit
+71,Your salary Rs. 50218 credited to A/c XXXXX5678 on 24/09/2025,24/09/2025,50218.0,Salary,Income,Salary,Credit
+72,Your a/c XXXXX1234 credited with INR 48193 via NEFT on 07/09/2025,07/09/2025,48193.0,Neft,Income,NEFT Transfer,Credit
+73,INR 3153 withdrawn from ATM at HDFC Bank on 30/09/2025,30/09/2025,3153.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+74,UPI/GooglePay credited Rs 31200 from Rahul on 26/09/2025,26/09/2025,31200.0,Googlepay,UPI,UPI Payment,Credit
+75,Payment of Rs 505 made to Uber on 27/09/2025 via GPay,27/09/2025,505.0,Uber,Transport,Ride Sharing,Debit
+76,Rs 1838 debited towards Rent Payment on 21/09/2025,21/09/2025,1838.0,Landlord,Bills,Rent,Debit
+77,Your salary Rs. 39327 credited to A/c XXXXX5678 on 18/09/2025,18/09/2025,39327.0,Salary,Income,Salary,Credit
+78,Your a/c XXXXX1234 credited with INR 20799 via NEFT on 22/09/2025,22/09/2025,20799.0,Neft,Income,NEFT Transfer,Credit
+79,UPI payment of Rs 3523 to PAYTM successful on 20/09/2025,20/09/2025,3523.0,Paytm,UPI,UPI Payment,Debit
+80,NEFT/ICIC0001234/Transfer Received of INR 14092 on 06/09/2025,06/09/2025,14092.0,Neft,Income,NEFT Transfer,Credit
+81,Your a/c XXXXX1234 credited with INR 42127 via NEFT on 29/09/2025,29/09/2025,42127.0,Neft,Income,NEFT Transfer,Credit
+82,POS 07/09/2025 Myntra Purchase - INR 1215. Avl Bal: Rs. 789481,07/09/2025,1215.0,Myntra,Shopping,Fashion,Debit
+83,Electricity Bill Payment of Rs 4298 successful via PhonePe,--,4298.0,Phonepe,Bills,Electricity,Debit
+84,Electricity Bill Payment of Rs 1500 successful via PhonePe,--,1500.0,Phonepe,Bills,Electricity,Debit
+85,Electricity Bill Payment of Rs 3927 successful via PhonePe,--,3927.0,Phonepe,Bills,Electricity,Debit
+86,Payment of Rs 447 made to Uber on 18/09/2025 via GPay,18/09/2025,447.0,Uber,Transport,Ride Sharing,Debit
+87,Your a/c XXXXX1234 credited with INR 7421 via NEFT on 02/09/2025,02/09/2025,7421.0,Neft,Income,NEFT Transfer,Credit
+88,Rs. 961 spent at Amazon on 27/09/2025. Avl Bal: Rs. 785769,27/09/2025,961.0,Amazon,Shopping,E-commerce,Debit
+89,Rs. 3460 spent at Amazon on 02/09/2025. Avl Bal: Rs. 782309,02/09/2025,3460.0,Amazon,Shopping,E-commerce,Debit
+90,POS 06/09/2025 Dominos Pizza - INR 1543. Bal: Rs. 780766,06/09/2025,1543.0,Dominos,Food,Dining,Debit
+91,Rs 113 debited towards Rent Payment on 23/09/2025,23/09/2025,113.0,Landlord,Bills,Rent,Debit
+92,UPI payment of Rs 182 to PAYTM successful on 06/09/2025,06/09/2025,182.0,Paytm,UPI,UPI Payment,Debit
+93,INR 1492 withdrawn from ATM at HDFC Bank on 20/09/2025,20/09/2025,1492.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+94,Your account credited with Rs. 16398 cashback from Flipkart,--,16398.0,Flipkart,Income,Cashback,Credit
+95,NEFT/ICIC0001234/Transfer Received of INR 36232 on 25/09/2025,25/09/2025,36232.0,Neft,Income,NEFT Transfer,Credit
+96,POS 27/09/2025 Myntra Purchase - INR 1821. Avl Bal: Rs. 829788,27/09/2025,1821.0,Myntra,Shopping,Fashion,Debit
+97,INR 739 withdrawn from ATM at HDFC Bank on 12/09/2025,12/09/2025,739.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+98,Electricity Bill Payment of Rs 739 successful via PhonePe,--,739.0,Phonepe,Bills,Electricity,Debit
+99,Your a/c XXXXX1234 credited with INR 34256 via NEFT on 29/09/2025,29/09/2025,34256.0,Neft,Income,NEFT Transfer,Credit
+100,Rs. 3658 spent at Amazon on 01/09/2025. Avl Bal: Rs. 858908,01/09/2025,3658.0,Amazon,Shopping,E-commerce,Debit
+101,POS 06/09/2025 Myntra Purchase - INR 3046. Avl Bal: Rs. 855862,06/09/2025,3046.0,Myntra,Shopping,Fashion,Debit
+102,INR 4202 withdrawn from ATM at HDFC Bank on 25/09/2025,25/09/2025,4202.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+103,Rs. 1272 debited at Zomato on 14/09/2025. Bal: Rs. 850388,14/09/2025,1272.0,Zomato,Food,Dining,Debit
+104,Electricity Bill Payment of Rs 2483 successful via PhonePe,--,2483.0,Phonepe,Bills,Electricity,Debit
+105,Your salary Rs. 49220 credited to A/c XXXXX5678 on 24/09/2025,24/09/2025,49220.0,Salary,Income,Salary,Credit
+106,Your salary Rs. 38006 credited to A/c XXXXX5678 on 13/09/2025,13/09/2025,38006.0,Salary,Income,Salary,Credit
+107,Your account credited with Rs. 4310 cashback from Flipkart,--,4310.0,Flipkart,Income,Cashback,Credit
+108,Electricity Bill Payment of Rs 4611 successful via PhonePe,--,4611.0,Phonepe,Bills,Electricity,Debit
+109,Your salary Rs. 27899 credited to A/c XXXXX5678 on 22/09/2025,22/09/2025,27899.0,Salary,Income,Salary,Credit
+110,Payment of Rs 4889 made to Uber on 16/09/2025 via GPay,16/09/2025,4889.0,Uber,Transport,Ride Sharing,Debit
+111,Electricity Bill Payment of Rs 4825 successful via PhonePe,--,4825.0,Phonepe,Bills,Electricity,Debit
+112,Rs. 3256 debited at Zomato on 23/09/2025. Bal: Rs. 949759,23/09/2025,3256.0,Zomato,Food,Dining,Debit
+113,Electricity Bill Payment of Rs 1456 successful via PhonePe,--,1456.0,Phonepe,Bills,Electricity,Debit
+114,Your salary Rs. 40413 credited to A/c XXXXX5678 on 02/09/2025,02/09/2025,40413.0,Salary,Income,Salary,Credit
+115,UPI payment of Rs 3856 to PAYTM successful on 19/09/2025,19/09/2025,3856.0,Paytm,UPI,UPI Payment,Debit
+116,Your salary Rs. 4645 credited to A/c XXXXX5678 on 10/09/2025,10/09/2025,4645.0,Salary,Income,Salary,Credit
+117,NEFT/ICIC0001234/Transfer Received of INR 39299 on 05/09/2025,05/09/2025,39299.0,Neft,Income,NEFT Transfer,Credit
+118,Rs. 3776 debited at Zomato on 20/09/2025. Bal: Rs. 1025028,20/09/2025,3776.0,Zomato,Food,Dining,Debit
+119,Rs 2678 debited towards Rent Payment on 20/09/2025,20/09/2025,2678.0,Landlord,Bills,Rent,Debit
+120,POS 11/09/2025 Dominos Pizza - INR 3039. Bal: Rs. 1019311,11/09/2025,3039.0,Dominos,Food,Dining,Debit
+121,UPI/GooglePay credited Rs 55877 from Rahul on 09/09/2025,09/09/2025,55877.0,Googlepay,UPI,UPI Payment,Credit
+122,Electricity Bill Payment of Rs 4689 successful via PhonePe,--,4689.0,Phonepe,Bills,Electricity,Debit
+123,Your salary Rs. 56401 credited to A/c XXXXX5678 on 18/09/2025,18/09/2025,56401.0,Salary,Income,Salary,Credit
+124,Rs. 2805 debited at Zomato on 30/09/2025. Bal: Rs. 1124095,30/09/2025,2805.0,Zomato,Food,Dining,Debit
+125,Electricity Bill Payment of Rs 1742 successful via PhonePe,--,1742.0,Phonepe,Bills,Electricity,Debit
+126,Payment of Rs 1319 made to Uber on 19/09/2025 via GPay,19/09/2025,1319.0,Uber,Transport,Ride Sharing,Debit
+127,POS 03/09/2025 Myntra Purchase - INR 3917. Avl Bal: Rs. 1117117,03/09/2025,3917.0,Myntra,Shopping,Fashion,Debit
+128,NEFT/ICIC0001234/Transfer Received of INR 28961 on 05/09/2025,05/09/2025,28961.0,Neft,Income,NEFT Transfer,Credit
+129,Payment of Rs 1612 made to Uber on 26/09/2025 via GPay,26/09/2025,1612.0,Uber,Transport,Ride Sharing,Debit
+130,POS 03/09/2025 Dominos Pizza - INR 2191. Bal: Rs. 1142275,03/09/2025,2191.0,Dominos,Food,Dining,Debit
+131,UPI/GooglePay credited Rs 19606 from Rahul on 07/09/2025,07/09/2025,19606.0,Googlepay,UPI,UPI Payment,Credit
+132,Payment of Rs 1936 made to Uber on 03/09/2025 via GPay,03/09/2025,1936.0,Uber,Transport,Ride Sharing,Debit
+133,Your salary Rs. 35207 credited to A/c XXXXX5678 on 25/09/2025,25/09/2025,35207.0,Salary,Income,Salary,Credit
+134,Rs. 1929 spent at Amazon on 29/09/2025. Avl Bal: Rs. 1193223,29/09/2025,1929.0,Amazon,Shopping,E-commerce,Debit
+135,Rs 2927 debited towards Rent Payment on 06/09/2025,06/09/2025,2927.0,Landlord,Bills,Rent,Debit
+136,Your salary Rs. 25452 credited to A/c XXXXX5678 on 12/09/2025,12/09/2025,25452.0,Salary,Income,Salary,Credit
+137,Rs 4304 debited towards Rent Payment on 19/09/2025,19/09/2025,4304.0,Landlord,Bills,Rent,Debit
+138,Rs. 4142 spent at Amazon on 14/09/2025. Avl Bal: Rs. 1207302,14/09/2025,4142.0,Amazon,Shopping,E-commerce,Debit
+139,Payment of Rs 4152 made to Uber on 12/09/2025 via GPay,12/09/2025,4152.0,Uber,Transport,Ride Sharing,Debit
+140,Rs. 1980 debited at Zomato on 12/09/2025. Bal: Rs. 1201170,12/09/2025,1980.0,Zomato,Food,Dining,Debit
+141,POS 17/09/2025 Myntra Purchase - INR 2709. Avl Bal: Rs. 1198461,17/09/2025,2709.0,Myntra,Shopping,Fashion,Debit
+142,POS 22/09/2025 Myntra Purchase - INR 4041. Avl Bal: Rs. 1194420,22/09/2025,4041.0,Myntra,Shopping,Fashion,Debit
+143,Your a/c XXXXX1234 credited with INR 58736 via NEFT on 26/09/2025,26/09/2025,58736.0,Neft,Income,NEFT Transfer,Credit
+144,INR 2285 withdrawn from ATM at HDFC Bank on 14/09/2025,14/09/2025,2285.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+145,Your account credited with Rs. 55725 cashback from Flipkart,--,55725.0,Flipkart,Income,Cashback,Credit
+146,Rs. 2363 debited at Zomato on 29/09/2025. Bal: Rs. 1304233,29/09/2025,2363.0,Zomato,Food,Dining,Debit
+147,NEFT/ICIC0001234/Transfer Received of INR 23132 on 27/09/2025,27/09/2025,23132.0,Neft,Income,NEFT Transfer,Credit
+148,POS 16/09/2025 Dominos Pizza - INR 636. Bal: Rs. 1326729,16/09/2025,636.0,Dominos,Food,Dining,Debit
+149,Payment of Rs 3092 made to Uber on 10/09/2025 via GPay,10/09/2025,3092.0,Uber,Transport,Ride Sharing,Debit
+150,Rs. 4787 debited at Zomato on 14/09/2025. Bal: Rs. 1318850,14/09/2025,4787.0,Zomato,Food,Dining,Debit
+151,INR 157 withdrawn from ATM at HDFC Bank on 05/09/2025,05/09/2025,157.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+152,Your account credited with Rs. 8422 cashback from Flipkart,--,8422.0,Flipkart,Income,Cashback,Credit
+153,UPI/GooglePay credited Rs 59161 from Rahul on 10/09/2025,10/09/2025,59161.0,Googlepay,UPI,UPI Payment,Credit
+154,POS 14/09/2025 Myntra Purchase - INR 1920. Avl Bal: Rs. 1384356,14/09/2025,1920.0,Myntra,Shopping,Fashion,Debit
+155,POS 12/09/2025 Myntra Purchase - INR 1760. Avl Bal: Rs. 1382596,12/09/2025,1760.0,Myntra,Shopping,Fashion,Debit
+156,UPI/GooglePay credited Rs 17567 from Rahul on 16/09/2025,16/09/2025,17567.0,Googlepay,UPI,UPI Payment,Credit
+157,Payment of Rs 1746 made to Uber on 02/09/2025 via GPay,02/09/2025,1746.0,Uber,Transport,Ride Sharing,Debit
+158,Electricity Bill Payment of Rs 4401 successful via PhonePe,--,4401.0,Phonepe,Bills,Electricity,Debit
+159,Your salary Rs. 19381 credited to A/c XXXXX5678 on 12/09/2025,12/09/2025,19381.0,Salary,Income,Salary,Credit
+160,UPI/GooglePay credited Rs 38000 from Rahul on 18/09/2025,18/09/2025,38000.0,Googlepay,UPI,UPI Payment,Credit
+161,Your a/c XXXXX1234 credited with INR 41443 via NEFT on 05/09/2025,05/09/2025,41443.0,Neft,Income,NEFT Transfer,Credit
+162,POS 21/09/2025 Myntra Purchase - INR 4204. Avl Bal: Rs. 1488636,21/09/2025,4204.0,Myntra,Shopping,Fashion,Debit
+163,POS 23/09/2025 Myntra Purchase - INR 3880. Avl Bal: Rs. 1484756,23/09/2025,3880.0,Myntra,Shopping,Fashion,Debit
+164,Rs. 1310 debited at Zomato on 05/09/2025. Bal: Rs. 1483446,05/09/2025,1310.0,Zomato,Food,Dining,Debit
+165,UPI payment of Rs 1748 to PAYTM successful on 23/09/2025,23/09/2025,1748.0,Paytm,UPI,UPI Payment,Debit
+166,Electricity Bill Payment of Rs 1782 successful via PhonePe,--,1782.0,Phonepe,Bills,Electricity,Debit
+167,Your account credited with Rs. 41557 cashback from Flipkart,--,41557.0,Flipkart,Income,Cashback,Credit
+168,Your salary Rs. 27279 credited to A/c XXXXX5678 on 06/09/2025,06/09/2025,27279.0,Salary,Income,Salary,Credit
+169,POS 04/09/2025 Dominos Pizza - INR 3643. Bal: Rs. 1545109,04/09/2025,3643.0,Dominos,Food,Dining,Debit
+170,UPI payment of Rs 1883 to PAYTM successful on 28/09/2025,28/09/2025,1883.0,Paytm,UPI,UPI Payment,Debit
+171,Electricity Bill Payment of Rs 2466 successful via PhonePe,--,2466.0,Phonepe,Bills,Electricity,Debit
+172,Rs. 1084 spent at Amazon on 22/09/2025. Avl Bal: Rs. 1539676,22/09/2025,1084.0,Amazon,Shopping,E-commerce,Debit
+173,UPI/GooglePay credited Rs 48806 from Rahul on 05/09/2025,05/09/2025,48806.0,Googlepay,UPI,UPI Payment,Credit
+174,Rs. 4658 spent at Amazon on 25/09/2025. Avl Bal: Rs. 1583824,25/09/2025,4658.0,Amazon,Shopping,E-commerce,Debit
+175,POS 27/09/2025 Myntra Purchase - INR 1794. Avl Bal: Rs. 1582030,27/09/2025,1794.0,Myntra,Shopping,Fashion,Debit
+176,Rs 549 debited towards Rent Payment on 07/09/2025,07/09/2025,549.0,Landlord,Bills,Rent,Debit
+177,Rs 272 debited towards Rent Payment on 09/09/2025,09/09/2025,272.0,Landlord,Bills,Rent,Debit
+178,POS 06/09/2025 Dominos Pizza - INR 3181. Bal: Rs. 1578028,06/09/2025,3181.0,Dominos,Food,Dining,Debit
+179,POS 08/09/2025 Dominos Pizza - INR 2099. Bal: Rs. 1575929,08/09/2025,2099.0,Dominos,Food,Dining,Debit
+180,Your salary Rs. 2565 credited to A/c XXXXX5678 on 30/09/2025,30/09/2025,2565.0,Salary,Income,Salary,Credit
+181,Your account credited with Rs. 52733 cashback from Flipkart,--,52733.0,Flipkart,Income,Cashback,Credit
+182,POS 07/09/2025 Dominos Pizza - INR 913. Bal: Rs. 1630314,07/09/2025,913.0,Dominos,Food,Dining,Debit
+183,Rs. 4284 debited at Zomato on 24/09/2025. Bal: Rs. 1626030,24/09/2025,4284.0,Zomato,Food,Dining,Debit
+184,Your account credited with Rs. 44587 cashback from Flipkart,--,44587.0,Flipkart,Income,Cashback,Credit
+185,INR 3535 withdrawn from ATM at HDFC Bank on 25/09/2025,25/09/2025,3535.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+186,UPI payment of Rs 4560 to PAYTM successful on 02/09/2025,02/09/2025,4560.0,Paytm,UPI,UPI Payment,Debit
+187,POS 05/09/2025 Dominos Pizza - INR 2872. Bal: Rs. 1659650,05/09/2025,2872.0,Dominos,Food,Dining,Debit
+188,Payment of Rs 3163 made to Uber on 08/09/2025 via GPay,08/09/2025,3163.0,Uber,Transport,Ride Sharing,Debit
+189,NEFT/ICIC0001234/Transfer Received of INR 46351 on 04/09/2025,04/09/2025,46351.0,Neft,Income,NEFT Transfer,Credit
+190,Payment of Rs 1789 made to Uber on 09/09/2025 via GPay,09/09/2025,1789.0,Uber,Transport,Ride Sharing,Debit
+191,Rs. 4731 debited at Zomato on 11/09/2025. Bal: Rs. 1696318,11/09/2025,4731.0,Zomato,Food,Dining,Debit
+192,Your account credited with Rs. 57248 cashback from Flipkart,--,57248.0,Flipkart,Income,Cashback,Credit
+193,Your account credited with Rs. 42861 cashback from Flipkart,--,42861.0,Flipkart,Income,Cashback,Credit
+194,Your salary Rs. 36640 credited to A/c XXXXX5678 on 28/09/2025,28/09/2025,36640.0,Salary,Income,Salary,Credit
+195,Rs. 714 debited at Zomato on 30/09/2025. Bal: Rs. 1832353,30/09/2025,714.0,Zomato,Food,Dining,Debit
+196,Electricity Bill Payment of Rs 4816 successful via PhonePe,--,4816.0,Phonepe,Bills,Electricity,Debit
+197,INR 2417 withdrawn from ATM at HDFC Bank on 18/09/2025,18/09/2025,2417.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+198,Your salary Rs. 14549 credited to A/c XXXXX5678 on 22/09/2025,22/09/2025,14549.0,Salary,Income,Salary,Credit
+199,Rs. 1115 debited at Zomato on 28/09/2025. Bal: Rs. 1838554,28/09/2025,1115.0,Zomato,Food,Dining,Debit
+200,POS 21/09/2025 Dominos Pizza - INR 1942. Bal: Rs. 1836612,21/09/2025,1942.0,Dominos,Food,Dining,Debit
+201,UPI/GooglePay credited Rs 27337 from Rahul on 12/09/2025,12/09/2025,27337.0,Googlepay,UPI,UPI Payment,Credit
+202,Your account credited with Rs. 54095 cashback from Flipkart,--,54095.0,Flipkart,Income,Cashback,Credit
+203,POS 15/09/2025 Myntra Purchase - INR 2502. Avl Bal: Rs. 1915542,15/09/2025,2502.0,Myntra,Shopping,Fashion,Debit
+204,UPI payment of Rs 1350 to PAYTM successful on 03/09/2025,03/09/2025,1350.0,Paytm,UPI,UPI Payment,Debit
+205,NEFT/ICIC0001234/Transfer Received of INR 24727 on 19/09/2025,19/09/2025,24727.0,Neft,Income,NEFT Transfer,Credit
+206,UPI payment of Rs 3717 to PAYTM successful on 25/09/2025,25/09/2025,3717.0,Paytm,UPI,UPI Payment,Debit
+207,Electricity Bill Payment of Rs 3144 successful via PhonePe,--,3144.0,Phonepe,Bills,Electricity,Debit
+208,Your a/c XXXXX1234 credited with INR 14073 via NEFT on 25/09/2025,25/09/2025,14073.0,Neft,Income,NEFT Transfer,Credit
+209,INR 3345 withdrawn from ATM at HDFC Bank on 01/09/2025,01/09/2025,3345.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+210,Rs. 3946 spent at Amazon on 03/09/2025. Avl Bal: Rs. 1938840,03/09/2025,3946.0,Amazon,Shopping,E-commerce,Debit
+211,Your salary Rs. 881 credited to A/c XXXXX5678 on 28/09/2025,28/09/2025,881.0,Salary,Income,Salary,Credit
+212,Payment of Rs 1933 made to Uber on 14/09/2025 via GPay,14/09/2025,1933.0,Uber,Transport,Ride Sharing,Debit
+213,NEFT/ICIC0001234/Transfer Received of INR 39735 on 17/09/2025,17/09/2025,39735.0,Neft,Income,NEFT Transfer,Credit
+214,POS 14/09/2025 Dominos Pizza - INR 974. Bal: Rs. 1976549,14/09/2025,974.0,Dominos,Food,Dining,Debit
+215,Electricity Bill Payment of Rs 626 successful via PhonePe,--,626.0,Phonepe,Bills,Electricity,Debit
+216,Your account credited with Rs. 50703 cashback from Flipkart,--,50703.0,Flipkart,Income,Cashback,Credit
+217,INR 1147 withdrawn from ATM at HDFC Bank on 11/09/2025,11/09/2025,1147.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+218,Rs. 4360 spent at Amazon on 08/09/2025. Avl Bal: Rs. 2021119,08/09/2025,4360.0,Amazon,Shopping,E-commerce,Debit
+219,POS 15/09/2025 Myntra Purchase - INR 1772. Avl Bal: Rs. 2019347,15/09/2025,1772.0,Myntra,Shopping,Fashion,Debit
+220,Rs. 3932 debited at Zomato on 12/09/2025. Bal: Rs. 2015415,12/09/2025,3932.0,Zomato,Food,Dining,Debit
+221,Rs. 2759 spent at Amazon on 08/09/2025. Avl Bal: Rs. 2012656,08/09/2025,2759.0,Amazon,Shopping,E-commerce,Debit
+222,INR 4153 withdrawn from ATM at HDFC Bank on 23/09/2025,23/09/2025,4153.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+223,INR 4902 withdrawn from ATM at HDFC Bank on 05/09/2025,05/09/2025,4902.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+224,POS 24/09/2025 Dominos Pizza - INR 3821. Bal: Rs. 1999780,24/09/2025,3821.0,Dominos,Food,Dining,Debit
+225,INR 2707 withdrawn from ATM at HDFC Bank on 04/09/2025,04/09/2025,2707.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+226,POS 03/09/2025 Myntra Purchase - INR 3112. Avl Bal: Rs. 1993961,03/09/2025,3112.0,Myntra,Shopping,Fashion,Debit
+227,POS 06/09/2025 Dominos Pizza - INR 330. Bal: Rs. 1993631,06/09/2025,330.0,Dominos,Food,Dining,Debit
+228,POS 27/09/2025 Dominos Pizza - INR 3767. Bal: Rs. 1989864,27/09/2025,3767.0,Dominos,Food,Dining,Debit
+229,Electricity Bill Payment of Rs 1191 successful via PhonePe,--,1191.0,Phonepe,Bills,Electricity,Debit
+230,POS 23/09/2025 Dominos Pizza - INR 1839. Bal: Rs. 1986834,23/09/2025,1839.0,Dominos,Food,Dining,Debit
+231,Rs. 4262 spent at Amazon on 06/09/2025. Avl Bal: Rs. 1982572,06/09/2025,4262.0,Amazon,Shopping,E-commerce,Debit
+232,Payment of Rs 2089 made to Uber on 18/09/2025 via GPay,18/09/2025,2089.0,Uber,Transport,Ride Sharing,Debit
+233,UPI/GooglePay credited Rs 43403 from Rahul on 05/09/2025,05/09/2025,43403.0,Googlepay,UPI,UPI Payment,Credit
+234,Rs. 3029 spent at Amazon on 26/09/2025. Avl Bal: Rs. 2020857,26/09/2025,3029.0,Amazon,Shopping,E-commerce,Debit
+235,Rs. 4845 spent at Amazon on 11/09/2025. Avl Bal: Rs. 2016012,11/09/2025,4845.0,Amazon,Shopping,E-commerce,Debit
+236,Electricity Bill Payment of Rs 3693 successful via PhonePe,--,3693.0,Phonepe,Bills,Electricity,Debit
+237,NEFT/ICIC0001234/Transfer Received of INR 14624 on 26/09/2025,26/09/2025,14624.0,Neft,Income,NEFT Transfer,Credit
+238,Rs. 668 spent at Amazon on 05/09/2025. Avl Bal: Rs. 2026275,05/09/2025,668.0,Amazon,Shopping,E-commerce,Debit
+239,Rs. 1207 debited at Zomato on 02/09/2025. Bal: Rs. 2025068,02/09/2025,1207.0,Zomato,Food,Dining,Debit
+240,Payment of Rs 4055 made to Uber on 15/09/2025 via GPay,15/09/2025,4055.0,Uber,Transport,Ride Sharing,Debit
+241,INR 689 withdrawn from ATM at HDFC Bank on 08/09/2025,08/09/2025,689.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+242,Rs. 1055 spent at Amazon on 07/09/2025. Avl Bal: Rs. 2019269,07/09/2025,1055.0,Amazon,Shopping,E-commerce,Debit
+243,Your a/c XXXXX1234 credited with INR 30117 via NEFT on 27/09/2025,27/09/2025,30117.0,Neft,Income,NEFT Transfer,Credit
+244,Rs. 3808 debited at Zomato on 25/09/2025. Bal: Rs. 2045578,25/09/2025,3808.0,Zomato,Food,Dining,Debit
+245,Rs. 4135 debited at Zomato on 28/09/2025. Bal: Rs. 2041443,28/09/2025,4135.0,Zomato,Food,Dining,Debit
+246,NEFT/ICIC0001234/Transfer Received of INR 23397 on 22/09/2025,22/09/2025,23397.0,Neft,Income,NEFT Transfer,Credit
+247,UPI/GooglePay credited Rs 53334 from Rahul on 21/09/2025,21/09/2025,53334.0,Googlepay,UPI,UPI Payment,Credit
+248,UPI payment of Rs 445 to PAYTM successful on 08/09/2025,08/09/2025,445.0,Paytm,UPI,UPI Payment,Debit
+249,POS 30/09/2025 Dominos Pizza - INR 1478. Bal: Rs. 2116251,30/09/2025,1478.0,Dominos,Food,Dining,Debit
+250,UPI payment of Rs 4226 to PAYTM successful on 04/09/2025,04/09/2025,4226.0,Paytm,UPI,UPI Payment,Debit
+251,Rs 2007 debited towards Rent Payment on 30/09/2025,30/09/2025,2007.0,Landlord,Bills,Rent,Debit
+252,UPI/GooglePay credited Rs 41891 from Rahul on 14/09/2025,14/09/2025,41891.0,Googlepay,UPI,UPI Payment,Credit
+253,POS 19/09/2025 Myntra Purchase - INR 4809. Avl Bal: Rs. 2147100,19/09/2025,4809.0,Myntra,Shopping,Fashion,Debit
+254,UPI payment of Rs 1624 to PAYTM successful on 03/09/2025,03/09/2025,1624.0,Paytm,UPI,UPI Payment,Debit
+255,POS 13/09/2025 Dominos Pizza - INR 3929. Bal: Rs. 2141547,13/09/2025,3929.0,Dominos,Food,Dining,Debit
+256,POS 12/09/2025 Dominos Pizza - INR 1953. Bal: Rs. 2139594,12/09/2025,1953.0,Dominos,Food,Dining,Debit
+257,Your a/c XXXXX1234 credited with INR 58976 via NEFT on 29/09/2025,29/09/2025,58976.0,Neft,Income,NEFT Transfer,Credit
+258,UPI/GooglePay credited Rs 38999 from Rahul on 08/09/2025,08/09/2025,38999.0,Googlepay,UPI,UPI Payment,Credit
+259,NEFT/ICIC0001234/Transfer Received of INR 2642 on 25/09/2025,25/09/2025,2642.0,Neft,Income,NEFT Transfer,Credit
+260,Rs. 4375 spent at Amazon on 01/09/2025. Avl Bal: Rs. 2235836,01/09/2025,4375.0,Amazon,Shopping,E-commerce,Debit
+261,POS 13/09/2025 Myntra Purchase - INR 2197. Avl Bal: Rs. 2233639,13/09/2025,2197.0,Myntra,Shopping,Fashion,Debit
+262,INR 3199 withdrawn from ATM at HDFC Bank on 23/09/2025,23/09/2025,3199.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+263,Rs. 3084 spent at Amazon on 13/09/2025. Avl Bal: Rs. 2227356,13/09/2025,3084.0,Amazon,Shopping,E-commerce,Debit
+264,UPI/GooglePay credited Rs 50797 from Rahul on 16/09/2025,16/09/2025,50797.0,Googlepay,UPI,UPI Payment,Credit
+265,Payment of Rs 1723 made to Uber on 17/09/2025 via GPay,17/09/2025,1723.0,Uber,Transport,Ride Sharing,Debit
+266,Your a/c XXXXX1234 credited with INR 20777 via NEFT on 04/09/2025,04/09/2025,20777.0,Neft,Income,NEFT Transfer,Credit
+267,POS 14/09/2025 Dominos Pizza - INR 691. Bal: Rs. 2296516,14/09/2025,691.0,Dominos,Food,Dining,Debit
+268,Electricity Bill Payment of Rs 1705 successful via PhonePe,--,1705.0,Phonepe,Bills,Electricity,Debit
+269,POS 11/09/2025 Dominos Pizza - INR 2014. Bal: Rs. 2292797,11/09/2025,2014.0,Dominos,Food,Dining,Debit
+270,INR 1945 withdrawn from ATM at HDFC Bank on 15/09/2025,15/09/2025,1945.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+271,Your account credited with Rs. 4527 cashback from Flipkart,--,4527.0,Flipkart,Income,Cashback,Credit
+272,POS 22/09/2025 Dominos Pizza - INR 2698. Bal: Rs. 2292681,22/09/2025,2698.0,Dominos,Food,Dining,Debit
+273,Rs 2292 debited towards Rent Payment on 16/09/2025,16/09/2025,2292.0,Landlord,Bills,Rent,Debit
+274,POS 01/09/2025 Myntra Purchase - INR 2991. Avl Bal: Rs. 2287398,01/09/2025,2991.0,Myntra,Shopping,Fashion,Debit
+275,POS 07/09/2025 Myntra Purchase - INR 2957. Avl Bal: Rs. 2284441,07/09/2025,2957.0,Myntra,Shopping,Fashion,Debit
+276,Electricity Bill Payment of Rs 2944 successful via PhonePe,--,2944.0,Phonepe,Bills,Electricity,Debit
+277,Payment of Rs 3316 made to Uber on 25/09/2025 via GPay,25/09/2025,3316.0,Uber,Transport,Ride Sharing,Debit
+278,Your account credited with Rs. 11919 cashback from Flipkart,--,11919.0,Flipkart,Income,Cashback,Credit
+279,Rs. 1508 debited at Zomato on 12/09/2025. Bal: Rs. 2288592,12/09/2025,1508.0,Zomato,Food,Dining,Debit
+280,Electricity Bill Payment of Rs 4952 successful via PhonePe,--,4952.0,Phonepe,Bills,Electricity,Debit
+281,UPI payment of Rs 4882 to PAYTM successful on 23/09/2025,23/09/2025,4882.0,Paytm,UPI,UPI Payment,Debit
+282,INR 2263 withdrawn from ATM at HDFC Bank on 26/09/2025,26/09/2025,2263.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+283,UPI payment of Rs 1398 to PAYTM successful on 23/09/2025,23/09/2025,1398.0,Paytm,UPI,UPI Payment,Debit
+284,POS 04/09/2025 Dominos Pizza - INR 3447. Bal: Rs. 2271650,04/09/2025,3447.0,Dominos,Food,Dining,Debit
+285,Electricity Bill Payment of Rs 2297 successful via PhonePe,--,2297.0,Phonepe,Bills,Electricity,Debit
+286,Rs. 4904 spent at Amazon on 20/09/2025. Avl Bal: Rs. 2264449,20/09/2025,4904.0,Amazon,Shopping,E-commerce,Debit
+287,Electricity Bill Payment of Rs 4050 successful via PhonePe,--,4050.0,Phonepe,Bills,Electricity,Debit
+288,UPI payment of Rs 880 to PAYTM successful on 20/09/2025,20/09/2025,880.0,Paytm,UPI,UPI Payment,Debit
+289,Your a/c XXXXX1234 credited with INR 12874 via NEFT on 27/09/2025,27/09/2025,12874.0,Neft,Income,NEFT Transfer,Credit
+290,UPI payment of Rs 4537 to PAYTM successful on 28/09/2025,28/09/2025,4537.0,Paytm,UPI,UPI Payment,Debit
+291,Rs. 1286 spent at Amazon on 01/09/2025. Avl Bal: Rs. 2266570,01/09/2025,1286.0,Amazon,Shopping,E-commerce,Debit
+292,Rs. 3295 spent at Amazon on 29/09/2025. Avl Bal: Rs. 2263275,29/09/2025,3295.0,Amazon,Shopping,E-commerce,Debit
+293,POS 16/09/2025 Myntra Purchase - INR 2160. Avl Bal: Rs. 2261115,16/09/2025,2160.0,Myntra,Shopping,Fashion,Debit
+294,UPI payment of Rs 3728 to PAYTM successful on 21/09/2025,21/09/2025,3728.0,Paytm,UPI,UPI Payment,Debit
+295,Rs. 873 spent at Amazon on 16/09/2025. Avl Bal: Rs. 2256514,16/09/2025,873.0,Amazon,Shopping,E-commerce,Debit
+296,INR 3562 withdrawn from ATM at HDFC Bank on 26/09/2025,26/09/2025,3562.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+297,Electricity Bill Payment of Rs 3776 successful via PhonePe,--,3776.0,Phonepe,Bills,Electricity,Debit
+298,POS 28/09/2025 Dominos Pizza - INR 187. Bal: Rs. 2248989,28/09/2025,187.0,Dominos,Food,Dining,Debit
+299,UPI payment of Rs 3376 to PAYTM successful on 25/09/2025,25/09/2025,3376.0,Paytm,UPI,UPI Payment,Debit
+300,Rs 4092 debited towards Rent Payment on 27/09/2025,27/09/2025,4092.0,Landlord,Bills,Rent,Debit
+301,NEFT/ICIC0001234/Transfer Received of INR 55405 on 10/09/2025,10/09/2025,55405.0,Neft,Income,NEFT Transfer,Credit
+302,UPI payment of Rs 264 to PAYTM successful on 10/09/2025,10/09/2025,264.0,Paytm,UPI,UPI Payment,Debit
+303,POS 12/09/2025 Myntra Purchase - INR 2182. Avl Bal: Rs. 2294480,12/09/2025,2182.0,Myntra,Shopping,Fashion,Debit
+304,INR 323 withdrawn from ATM at HDFC Bank on 17/09/2025,17/09/2025,323.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+305,POS 16/09/2025 Dominos Pizza - INR 1508. Bal: Rs. 2292649,16/09/2025,1508.0,Dominos,Food,Dining,Debit
+306,Your a/c XXXXX1234 credited with INR 37198 via NEFT on 20/09/2025,20/09/2025,37198.0,Neft,Income,NEFT Transfer,Credit
+307,Rs. 4460 spent at Amazon on 15/09/2025. Avl Bal: Rs. 2325387,15/09/2025,4460.0,Amazon,Shopping,E-commerce,Debit
+308,Rs 2634 debited towards Rent Payment on 07/09/2025,07/09/2025,2634.0,Landlord,Bills,Rent,Debit
+309,Electricity Bill Payment of Rs 217 successful via PhonePe,--,217.0,Phonepe,Bills,Electricity,Debit
+310,POS 06/09/2025 Dominos Pizza - INR 3886. Bal: Rs. 2318650,06/09/2025,3886.0,Dominos,Food,Dining,Debit
+311,Rs. 2192 debited at Zomato on 01/09/2025. Bal: Rs. 2316458,01/09/2025,2192.0,Zomato,Food,Dining,Debit
+312,INR 1323 withdrawn from ATM at HDFC Bank on 04/09/2025,04/09/2025,1323.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+313,Rs. 3158 spent at Amazon on 27/09/2025. Avl Bal: Rs. 2311977,27/09/2025,3158.0,Amazon,Shopping,E-commerce,Debit
+314,POS 13/09/2025 Myntra Purchase - INR 196. Avl Bal: Rs. 2311781,13/09/2025,196.0,Myntra,Shopping,Fashion,Debit
+315,Your account credited with Rs. 45596 cashback from Flipkart,--,45596.0,Flipkart,Income,Cashback,Credit
+316,Rs 3103 debited towards Rent Payment on 10/09/2025,10/09/2025,3103.0,Landlord,Bills,Rent,Debit
+317,POS 03/09/2025 Dominos Pizza - INR 3142. Bal: Rs. 2351132,03/09/2025,3142.0,Dominos,Food,Dining,Debit
+318,NEFT/ICIC0001234/Transfer Received of INR 19689 on 10/09/2025,10/09/2025,19689.0,Neft,Income,NEFT Transfer,Credit
+319,INR 3244 withdrawn from ATM at HDFC Bank on 21/09/2025,21/09/2025,3244.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+320,Rs. 2549 spent at Amazon on 05/09/2025. Avl Bal: Rs. 2365028,05/09/2025,2549.0,Amazon,Shopping,E-commerce,Debit
+321,Rs 923 debited towards Rent Payment on 30/09/2025,30/09/2025,923.0,Landlord,Bills,Rent,Debit
+322,Electricity Bill Payment of Rs 4979 successful via PhonePe,--,4979.0,Phonepe,Bills,Electricity,Debit
+323,Your salary Rs. 51254 credited to A/c XXXXX5678 on 26/09/2025,26/09/2025,51254.0,Salary,Income,Salary,Credit
+324,Rs 4393 debited towards Rent Payment on 13/09/2025,13/09/2025,4393.0,Landlord,Bills,Rent,Debit
+325,POS 17/09/2025 Myntra Purchase - INR 3398. Avl Bal: Rs. 2402589,17/09/2025,3398.0,Myntra,Shopping,Fashion,Debit
+326,POS 20/09/2025 Myntra Purchase - INR 2038. Avl Bal: Rs. 2400551,20/09/2025,2038.0,Myntra,Shopping,Fashion,Debit
+327,Payment of Rs 3854 made to Uber on 09/09/2025 via GPay,09/09/2025,3854.0,Uber,Transport,Ride Sharing,Debit
+328,Your salary Rs. 44442 credited to A/c XXXXX5678 on 06/09/2025,06/09/2025,44442.0,Salary,Income,Salary,Credit
+329,NEFT/ICIC0001234/Transfer Received of INR 28898 on 10/09/2025,10/09/2025,28898.0,Neft,Income,NEFT Transfer,Credit
+330,UPI/GooglePay credited Rs 11070 from Rahul on 09/09/2025,09/09/2025,11070.0,Googlepay,UPI,UPI Payment,Credit
+331,NEFT/ICIC0001234/Transfer Received of INR 51823 on 09/09/2025,09/09/2025,51823.0,Neft,Income,NEFT Transfer,Credit
+332,POS 21/09/2025 Myntra Purchase - INR 314. Avl Bal: Rs. 2532616,21/09/2025,314.0,Myntra,Shopping,Fashion,Debit
+333,Your salary Rs. 1733 credited to A/c XXXXX5678 on 17/09/2025,17/09/2025,1733.0,Salary,Income,Salary,Credit
+334,UPI payment of Rs 2639 to PAYTM successful on 03/09/2025,03/09/2025,2639.0,Paytm,UPI,UPI Payment,Debit
+335,Payment of Rs 2536 made to Uber on 26/09/2025 via GPay,26/09/2025,2536.0,Uber,Transport,Ride Sharing,Debit
+336,Your account credited with Rs. 21674 cashback from Flipkart,--,21674.0,Flipkart,Income,Cashback,Credit
+337,Payment of Rs 4768 made to Uber on 03/09/2025 via GPay,03/09/2025,4768.0,Uber,Transport,Ride Sharing,Debit
+338,Rs. 534 spent at Amazon on 01/09/2025. Avl Bal: Rs. 2545546,01/09/2025,534.0,Amazon,Shopping,E-commerce,Debit
+339,UPI payment of Rs 1640 to PAYTM successful on 06/09/2025,06/09/2025,1640.0,Paytm,UPI,UPI Payment,Debit
+340,NEFT/ICIC0001234/Transfer Received of INR 26682 on 13/09/2025,13/09/2025,26682.0,Neft,Income,NEFT Transfer,Credit
+341,UPI payment of Rs 4056 to PAYTM successful on 22/09/2025,22/09/2025,4056.0,Paytm,UPI,UPI Payment,Debit
+342,UPI/GooglePay credited Rs 5880 from Rahul on 02/09/2025,02/09/2025,5880.0,Googlepay,UPI,UPI Payment,Credit
+343,Your a/c XXXXX1234 credited with INR 30240 via NEFT on 17/09/2025,17/09/2025,30240.0,Neft,Income,NEFT Transfer,Credit
+344,UPI payment of Rs 3910 to PAYTM successful on 11/09/2025,11/09/2025,3910.0,Paytm,UPI,UPI Payment,Debit
+345,Rs 2583 debited towards Rent Payment on 16/09/2025,16/09/2025,2583.0,Landlord,Bills,Rent,Debit
+346,Electricity Bill Payment of Rs 4130 successful via PhonePe,--,4130.0,Phonepe,Bills,Electricity,Debit
+347,POS 24/09/2025 Myntra Purchase - INR 2150. Avl Bal: Rs. 2589879,24/09/2025,2150.0,Myntra,Shopping,Fashion,Debit
+348,NEFT/ICIC0001234/Transfer Received of INR 31059 on 06/09/2025,06/09/2025,31059.0,Neft,Income,NEFT Transfer,Credit
+349,UPI/GooglePay credited Rs 24878 from Rahul on 29/09/2025,29/09/2025,24878.0,Googlepay,UPI,UPI Payment,Credit
+350,POS 21/09/2025 Dominos Pizza - INR 4235. Bal: Rs. 2641581,21/09/2025,4235.0,Dominos,Food,Dining,Debit
+351,Your salary Rs. 26343 credited to A/c XXXXX5678 on 04/09/2025,04/09/2025,26343.0,Salary,Income,Salary,Credit
+352,NEFT/ICIC0001234/Transfer Received of INR 48053 on 15/09/2025,15/09/2025,48053.0,Neft,Income,NEFT Transfer,Credit
+353,Rs. 1875 debited at Zomato on 17/09/2025. Bal: Rs. 2714102,17/09/2025,1875.0,Zomato,Food,Dining,Debit
+354,Your a/c XXXXX1234 credited with INR 22166 via NEFT on 20/09/2025,20/09/2025,22166.0,Neft,Income,NEFT Transfer,Credit
+355,Your a/c XXXXX1234 credited with INR 49349 via NEFT on 14/09/2025,14/09/2025,49349.0,Neft,Income,NEFT Transfer,Credit
+356,INR 3072 withdrawn from ATM at HDFC Bank on 08/09/2025,08/09/2025,3072.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+357,Electricity Bill Payment of Rs 1464 successful via PhonePe,--,1464.0,Phonepe,Bills,Electricity,Debit
+358,Your account credited with Rs. 47155 cashback from Flipkart,--,47155.0,Flipkart,Income,Cashback,Credit
+359,NEFT/ICIC0001234/Transfer Received of INR 26835 on 27/09/2025,27/09/2025,26835.0,Neft,Income,NEFT Transfer,Credit
+360,POS 26/09/2025 Myntra Purchase - INR 257. Avl Bal: Rs. 2854814,26/09/2025,257.0,Myntra,Shopping,Fashion,Debit
+361,POS 26/09/2025 Myntra Purchase - INR 860. Avl Bal: Rs. 2853954,26/09/2025,860.0,Myntra,Shopping,Fashion,Debit
+362,Payment of Rs 2309 made to Uber on 14/09/2025 via GPay,14/09/2025,2309.0,Uber,Transport,Ride Sharing,Debit
+363,Electricity Bill Payment of Rs 1685 successful via PhonePe,--,1685.0,Phonepe,Bills,Electricity,Debit
+364,Your a/c XXXXX1234 credited with INR 9623 via NEFT on 23/09/2025,23/09/2025,9623.0,Neft,Income,NEFT Transfer,Credit
+365,Rs 4538 debited towards Rent Payment on 25/09/2025,25/09/2025,4538.0,Landlord,Bills,Rent,Debit
+366,Your a/c XXXXX1234 credited with INR 13605 via NEFT on 19/09/2025,19/09/2025,13605.0,Neft,Income,NEFT Transfer,Credit
+367,Rs. 4072 spent at Amazon on 08/09/2025. Avl Bal: Rs. 2864578,08/09/2025,4072.0,Amazon,Shopping,E-commerce,Debit
+368,UPI/GooglePay credited Rs 6723 from Rahul on 17/09/2025,17/09/2025,6723.0,Googlepay,UPI,UPI Payment,Credit
+369,Electricity Bill Payment of Rs 4204 successful via PhonePe,--,4204.0,Phonepe,Bills,Electricity,Debit
+370,Rs. 3371 spent at Amazon on 09/09/2025. Avl Bal: Rs. 2863726,09/09/2025,3371.0,Amazon,Shopping,E-commerce,Debit
+371,POS 04/09/2025 Dominos Pizza - INR 3571. Bal: Rs. 2860155,04/09/2025,3571.0,Dominos,Food,Dining,Debit
+372,Electricity Bill Payment of Rs 1452 successful via PhonePe,--,1452.0,Phonepe,Bills,Electricity,Debit
+373,Rs 2633 debited towards Rent Payment on 23/09/2025,23/09/2025,2633.0,Landlord,Bills,Rent,Debit
+374,Electricity Bill Payment of Rs 1653 successful via PhonePe,--,1653.0,Phonepe,Bills,Electricity,Debit
+375,Electricity Bill Payment of Rs 1898 successful via PhonePe,--,1898.0,Phonepe,Bills,Electricity,Debit
+376,UPI payment of Rs 4060 to PAYTM successful on 08/09/2025,08/09/2025,4060.0,Paytm,UPI,UPI Payment,Debit
+377,Electricity Bill Payment of Rs 4790 successful via PhonePe,--,4790.0,Phonepe,Bills,Electricity,Debit
+378,UPI payment of Rs 3489 to PAYTM successful on 25/09/2025,25/09/2025,3489.0,Paytm,UPI,UPI Payment,Debit
+379,NEFT/ICIC0001234/Transfer Received of INR 49586 on 24/09/2025,24/09/2025,49586.0,Neft,Income,NEFT Transfer,Credit
+380,Payment of Rs 4956 made to Uber on 09/09/2025 via GPay,09/09/2025,4956.0,Uber,Transport,Ride Sharing,Debit
+381,Payment of Rs 3738 made to Uber on 08/09/2025 via GPay,08/09/2025,3738.0,Uber,Transport,Ride Sharing,Debit
+382,Electricity Bill Payment of Rs 1791 successful via PhonePe,--,1791.0,Phonepe,Bills,Electricity,Debit
+383,Electricity Bill Payment of Rs 1381 successful via PhonePe,--,1381.0,Phonepe,Bills,Electricity,Debit
+384,UPI/GooglePay credited Rs 13323 from Rahul on 17/09/2025,17/09/2025,13323.0,Googlepay,UPI,UPI Payment,Credit
+385,Your account credited with Rs. 21795 cashback from Flipkart,--,21795.0,Flipkart,Income,Cashback,Credit
+386,POS 17/09/2025 Myntra Purchase - INR 428. Avl Bal: Rs. 2912590,17/09/2025,428.0,Myntra,Shopping,Fashion,Debit
+387,NEFT/ICIC0001234/Transfer Received of INR 36042 on 27/09/2025,27/09/2025,36042.0,Neft,Income,NEFT Transfer,Credit
+388,Your account credited with Rs. 22280 cashback from Flipkart,--,22280.0,Flipkart,Income,Cashback,Credit
+389,UPI payment of Rs 1174 to PAYTM successful on 29/09/2025,29/09/2025,1174.0,Paytm,UPI,UPI Payment,Debit
+390,UPI/GooglePay credited Rs 44301 from Rahul on 06/09/2025,06/09/2025,44301.0,Googlepay,UPI,UPI Payment,Credit
+391,Your salary Rs. 2547 credited to A/c XXXXX5678 on 25/09/2025,25/09/2025,2547.0,Salary,Income,Salary,Credit
+392,NEFT/ICIC0001234/Transfer Received of INR 54006 on 19/09/2025,19/09/2025,54006.0,Neft,Income,NEFT Transfer,Credit
+393,Rs. 1510 spent at Amazon on 27/09/2025. Avl Bal: Rs. 3069082,27/09/2025,1510.0,Amazon,Shopping,E-commerce,Debit
+394,Payment of Rs 2490 made to Uber on 09/09/2025 via GPay,09/09/2025,2490.0,Uber,Transport,Ride Sharing,Debit
+395,Your salary Rs. 53753 credited to A/c XXXXX5678 on 03/09/2025,03/09/2025,53753.0,Salary,Income,Salary,Credit
+396,NEFT/ICIC0001234/Transfer Received of INR 54066 on 04/09/2025,04/09/2025,54066.0,Neft,Income,NEFT Transfer,Credit
+397,UPI/GooglePay credited Rs 20308 from Rahul on 20/09/2025,20/09/2025,20308.0,Googlepay,UPI,UPI Payment,Credit
+398,Electricity Bill Payment of Rs 936 successful via PhonePe,--,936.0,Phonepe,Bills,Electricity,Debit
+399,Your a/c XXXXX1234 credited with INR 7282 via NEFT on 29/09/2025,29/09/2025,7282.0,Neft,Income,NEFT Transfer,Credit
+400,Payment of Rs 2038 made to Uber on 19/09/2025 via GPay,19/09/2025,2038.0,Uber,Transport,Ride Sharing,Debit
+401,Rs. 1298 spent at Amazon on 20/09/2025. Avl Bal: Rs. 3197729,20/09/2025,1298.0,Amazon,Shopping,E-commerce,Debit
+402,UPI/GooglePay credited Rs 11497 from Rahul on 12/09/2025,12/09/2025,11497.0,Googlepay,UPI,UPI Payment,Credit
+403,Rs. 2187 spent at Amazon on 07/09/2025. Avl Bal: Rs. 3207039,07/09/2025,2187.0,Amazon,Shopping,E-commerce,Debit
+404,Electricity Bill Payment of Rs 573 successful via PhonePe,--,573.0,Phonepe,Bills,Electricity,Debit
+405,Your account credited with Rs. 3610 cashback from Flipkart,--,3610.0,Flipkart,Income,Cashback,Credit
+406,Rs. 2637 debited at Zomato on 19/09/2025. Bal: Rs. 3207439,19/09/2025,2637.0,Zomato,Food,Dining,Debit
+407,Payment of Rs 2876 made to Uber on 03/09/2025 via GPay,03/09/2025,2876.0,Uber,Transport,Ride Sharing,Debit
+408,Rs. 1285 spent at Amazon on 16/09/2025. Avl Bal: Rs. 3203278,16/09/2025,1285.0,Amazon,Shopping,E-commerce,Debit
+409,POS 09/09/2025 Myntra Purchase - INR 3458. Avl Bal: Rs. 3199820,09/09/2025,3458.0,Myntra,Shopping,Fashion,Debit
+410,Rs. 2676 debited at Zomato on 23/09/2025. Bal: Rs. 3197144,23/09/2025,2676.0,Zomato,Food,Dining,Debit
+411,UPI/GooglePay credited Rs 40296 from Rahul on 30/09/2025,30/09/2025,40296.0,Googlepay,UPI,UPI Payment,Credit
+412,Your a/c XXXXX1234 credited with INR 52077 via NEFT on 16/09/2025,16/09/2025,52077.0,Neft,Income,NEFT Transfer,Credit
+413,Rs 1419 debited towards Rent Payment on 30/09/2025,30/09/2025,1419.0,Landlord,Bills,Rent,Debit
+414,Electricity Bill Payment of Rs 1403 successful via PhonePe,--,1403.0,Phonepe,Bills,Electricity,Debit
+415,Rs. 716 debited at Zomato on 26/09/2025. Bal: Rs. 3285979,26/09/2025,716.0,Zomato,Food,Dining,Debit
+416,Payment of Rs 917 made to Uber on 04/09/2025 via GPay,04/09/2025,917.0,Uber,Transport,Ride Sharing,Debit
+417,Rs. 3219 spent at Amazon on 06/09/2025. Avl Bal: Rs. 3281843,06/09/2025,3219.0,Amazon,Shopping,E-commerce,Debit
+418,Your account credited with Rs. 35113 cashback from Flipkart,--,35113.0,Flipkart,Income,Cashback,Credit
+419,POS 23/09/2025 Dominos Pizza - INR 1444. Bal: Rs. 3315512,23/09/2025,1444.0,Dominos,Food,Dining,Debit
+420,Payment of Rs 3356 made to Uber on 20/09/2025 via GPay,20/09/2025,3356.0,Uber,Transport,Ride Sharing,Debit
+421,UPI payment of Rs 4890 to PAYTM successful on 14/09/2025,14/09/2025,4890.0,Paytm,UPI,UPI Payment,Debit
+422,Electricity Bill Payment of Rs 3989 successful via PhonePe,--,3989.0,Phonepe,Bills,Electricity,Debit
+423,POS 20/09/2025 Myntra Purchase - INR 2086. Avl Bal: Rs. 3301191,20/09/2025,2086.0,Myntra,Shopping,Fashion,Debit
+424,POS 05/09/2025 Myntra Purchase - INR 811. Avl Bal: Rs. 3300380,05/09/2025,811.0,Myntra,Shopping,Fashion,Debit
+425,Your salary Rs. 28609 credited to A/c XXXXX5678 on 04/09/2025,04/09/2025,28609.0,Salary,Income,Salary,Credit
+426,Rs. 2159 spent at Amazon on 22/09/2025. Avl Bal: Rs. 3326830,22/09/2025,2159.0,Amazon,Shopping,E-commerce,Debit
+427,POS 12/09/2025 Dominos Pizza - INR 3970. Bal: Rs. 3322860,12/09/2025,3970.0,Dominos,Food,Dining,Debit
+428,NEFT/ICIC0001234/Transfer Received of INR 21300 on 01/09/2025,01/09/2025,21300.0,Neft,Income,NEFT Transfer,Credit
+429,Your salary Rs. 19464 credited to A/c XXXXX5678 on 12/09/2025,12/09/2025,19464.0,Salary,Income,Salary,Credit
+430,Rs. 4731 spent at Amazon on 28/09/2025. Avl Bal: Rs. 3358893,28/09/2025,4731.0,Amazon,Shopping,E-commerce,Debit
+431,POS 05/09/2025 Dominos Pizza - INR 3691. Bal: Rs. 3355202,05/09/2025,3691.0,Dominos,Food,Dining,Debit
+432,Your a/c XXXXX1234 credited with INR 12499 via NEFT on 08/09/2025,08/09/2025,12499.0,Neft,Income,NEFT Transfer,Credit
+433,Rs 3993 debited towards Rent Payment on 11/09/2025,11/09/2025,3993.0,Landlord,Bills,Rent,Debit
+434,Your a/c XXXXX1234 credited with INR 38578 via NEFT on 09/09/2025,09/09/2025,38578.0,Neft,Income,NEFT Transfer,Credit
+435,Rs. 2685 debited at Zomato on 21/09/2025. Bal: Rs. 3399601,21/09/2025,2685.0,Zomato,Food,Dining,Debit
+436,Rs. 571 spent at Amazon on 18/09/2025. Avl Bal: Rs. 3399030,18/09/2025,571.0,Amazon,Shopping,E-commerce,Debit
+437,INR 549 withdrawn from ATM at HDFC Bank on 16/09/2025,16/09/2025,549.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+438,INR 1750 withdrawn from ATM at HDFC Bank on 28/09/2025,28/09/2025,1750.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+439,Rs 1495 debited towards Rent Payment on 05/09/2025,05/09/2025,1495.0,Landlord,Bills,Rent,Debit
+440,POS 28/09/2025 Myntra Purchase - INR 3311. Avl Bal: Rs. 3391925,28/09/2025,3311.0,Myntra,Shopping,Fashion,Debit
+441,Your salary Rs. 19048 credited to A/c XXXXX5678 on 17/09/2025,17/09/2025,19048.0,Salary,Income,Salary,Credit
+442,Your a/c XXXXX1234 credited with INR 40350 via NEFT on 04/09/2025,04/09/2025,40350.0,Neft,Income,NEFT Transfer,Credit
+443,POS 23/09/2025 Dominos Pizza - INR 4585. Bal: Rs. 3446738,23/09/2025,4585.0,Dominos,Food,Dining,Debit
+444,POS 03/09/2025 Myntra Purchase - INR 2634. Avl Bal: Rs. 3444104,03/09/2025,2634.0,Myntra,Shopping,Fashion,Debit
+445,Rs. 4983 spent at Amazon on 07/09/2025. Avl Bal: Rs. 3439121,07/09/2025,4983.0,Amazon,Shopping,E-commerce,Debit
+446,INR 875 withdrawn from ATM at HDFC Bank on 15/09/2025,15/09/2025,875.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+447,UPI/GooglePay credited Rs 21908 from Rahul on 23/09/2025,23/09/2025,21908.0,Googlepay,UPI,UPI Payment,Credit
+448,UPI/GooglePay credited Rs 48855 from Rahul on 23/09/2025,23/09/2025,48855.0,Googlepay,UPI,UPI Payment,Credit
+449,UPI/GooglePay credited Rs 56502 from Rahul on 21/09/2025,21/09/2025,56502.0,Googlepay,UPI,UPI Payment,Credit
+450,UPI/GooglePay credited Rs 17288 from Rahul on 16/09/2025,16/09/2025,17288.0,Googlepay,UPI,UPI Payment,Credit
+451,Rs. 3245 spent at Amazon on 15/09/2025. Avl Bal: Rs. 3579554,15/09/2025,3245.0,Amazon,Shopping,E-commerce,Debit
+452,UPI payment of Rs 3395 to PAYTM successful on 28/09/2025,28/09/2025,3395.0,Paytm,UPI,UPI Payment,Debit
+453,Your account credited with Rs. 59663 cashback from Flipkart,--,59663.0,Flipkart,Income,Cashback,Credit
+454,UPI payment of Rs 1926 to PAYTM successful on 06/09/2025,06/09/2025,1926.0,Paytm,UPI,UPI Payment,Debit
+455,UPI/GooglePay credited Rs 38837 from Rahul on 18/09/2025,18/09/2025,38837.0,Googlepay,UPI,UPI Payment,Credit
+456,UPI payment of Rs 4069 to PAYTM successful on 16/09/2025,16/09/2025,4069.0,Paytm,UPI,UPI Payment,Debit
+457,Your salary Rs. 21633 credited to A/c XXXXX5678 on 14/09/2025,14/09/2025,21633.0,Salary,Income,Salary,Credit
+458,Rs. 4355 debited at Zomato on 15/09/2025. Bal: Rs. 3685942,15/09/2025,4355.0,Zomato,Food,Dining,Debit
+459,Your salary Rs. 3603 credited to A/c XXXXX5678 on 18/09/2025,18/09/2025,3603.0,Salary,Income,Salary,Credit
+460,POS 28/09/2025 Dominos Pizza - INR 1291. Bal: Rs. 3688254,28/09/2025,1291.0,Dominos,Food,Dining,Debit
+461,POS 25/09/2025 Myntra Purchase - INR 3416. Avl Bal: Rs. 3684838,25/09/2025,3416.0,Myntra,Shopping,Fashion,Debit
+462,Electricity Bill Payment of Rs 3066 successful via PhonePe,--,3066.0,Phonepe,Bills,Electricity,Debit
+463,NEFT/ICIC0001234/Transfer Received of INR 30853 on 09/09/2025,09/09/2025,30853.0,Neft,Income,NEFT Transfer,Credit
+464,Your account credited with Rs. 59569 cashback from Flipkart,--,59569.0,Flipkart,Income,Cashback,Credit
+465,INR 2197 withdrawn from ATM at HDFC Bank on 08/09/2025,08/09/2025,2197.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+466,POS 06/09/2025 Dominos Pizza - INR 573. Bal: Rs. 3769424,06/09/2025,573.0,Dominos,Food,Dining,Debit
+467,Electricity Bill Payment of Rs 1522 successful via PhonePe,--,1522.0,Phonepe,Bills,Electricity,Debit
+468,Electricity Bill Payment of Rs 1900 successful via PhonePe,--,1900.0,Phonepe,Bills,Electricity,Debit
+469,INR 4645 withdrawn from ATM at HDFC Bank on 16/09/2025,16/09/2025,4645.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+470,UPI payment of Rs 1466 to PAYTM successful on 28/09/2025,28/09/2025,1466.0,Paytm,UPI,UPI Payment,Debit
+471,Electricity Bill Payment of Rs 2080 successful via PhonePe,--,2080.0,Phonepe,Bills,Electricity,Debit
+472,Rs 4871 debited towards Rent Payment on 26/09/2025,26/09/2025,4871.0,Landlord,Bills,Rent,Debit
+473,Rs 4289 debited towards Rent Payment on 15/09/2025,15/09/2025,4289.0,Landlord,Bills,Rent,Debit
+474,Rs 1773 debited towards Rent Payment on 10/09/2025,10/09/2025,1773.0,Landlord,Bills,Rent,Debit
+475,Rs. 635 debited at Zomato on 22/09/2025. Bal: Rs. 3746243,22/09/2025,635.0,Zomato,Food,Dining,Debit
+476,Your salary Rs. 59682 credited to A/c XXXXX5678 on 08/09/2025,08/09/2025,59682.0,Salary,Income,Salary,Credit
+477,UPI payment of Rs 2497 to PAYTM successful on 23/09/2025,23/09/2025,2497.0,Paytm,UPI,UPI Payment,Debit
+478,UPI payment of Rs 914 to PAYTM successful on 22/09/2025,22/09/2025,914.0,Paytm,UPI,UPI Payment,Debit
+479,POS 14/09/2025 Dominos Pizza - INR 1610. Bal: Rs. 3800904,14/09/2025,1610.0,Dominos,Food,Dining,Debit
+480,Your salary Rs. 41780 credited to A/c XXXXX5678 on 28/09/2025,28/09/2025,41780.0,Salary,Income,Salary,Credit
+481,Payment of Rs 765 made to Uber on 25/09/2025 via GPay,25/09/2025,765.0,Uber,Transport,Ride Sharing,Debit
+482,NEFT/ICIC0001234/Transfer Received of INR 48329 on 08/09/2025,08/09/2025,48329.0,Neft,Income,NEFT Transfer,Credit
+483,Electricity Bill Payment of Rs 3675 successful via PhonePe,--,3675.0,Phonepe,Bills,Electricity,Debit
+484,NEFT/ICIC0001234/Transfer Received of INR 52837 on 14/09/2025,14/09/2025,52837.0,Neft,Income,NEFT Transfer,Credit
+485,Electricity Bill Payment of Rs 1099 successful via PhonePe,--,1099.0,Phonepe,Bills,Electricity,Debit
+486,Your account credited with Rs. 54775 cashback from Flipkart,--,54775.0,Flipkart,Income,Cashback,Credit
+487,INR 4210 withdrawn from ATM at HDFC Bank on 27/09/2025,27/09/2025,4210.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+488,Rs 3225 debited towards Rent Payment on 21/09/2025,21/09/2025,3225.0,Landlord,Bills,Rent,Debit
+489,Your account credited with Rs. 35854 cashback from Flipkart,--,35854.0,Flipkart,Income,Cashback,Credit
+490,INR 1746 withdrawn from ATM at HDFC Bank on 12/09/2025,12/09/2025,1746.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+491,INR 132 withdrawn from ATM at HDFC Bank on 09/09/2025,09/09/2025,132.0,Atm,Cash Withdrawal,ATM Withdrawal,Debit
+492,Payment of Rs 3914 made to Uber on 25/09/2025 via GPay,25/09/2025,3914.0,Uber,Transport,Ride Sharing,Debit
+493,Your account credited with Rs. 32856 cashback from Flipkart,--,32856.0,Flipkart,Income,Cashback,Credit
+494,POS 13/09/2025 Myntra Purchase - INR 2589. Avl Bal: Rs. 4045980,13/09/2025,2589.0,Myntra,Shopping,Fashion,Debit
+495,UPI payment of Rs 2778 to PAYTM successful on 21/09/2025,21/09/2025,2778.0,Paytm,UPI,UPI Payment,Debit
+496,POS 06/09/2025 Dominos Pizza - INR 119. Bal: Rs. 4043083,06/09/2025,119.0,Dominos,Food,Dining,Debit
+497,Electricity Bill Payment of Rs 4511 successful via PhonePe,--,4511.0,Phonepe,Bills,Electricity,Debit
+498,Your a/c XXXXX1234 credited with INR 14168 via NEFT on 20/09/2025,20/09/2025,14168.0,Neft,Income,NEFT Transfer,Credit
+499,Rs. 2494 debited at Zomato on 05/09/2025. Bal: Rs. 4050246,05/09/2025,2494.0,Zomato,Food,Dining,Debit
+500,Rs 4724 debited towards Rent Payment on 27/09/2025,27/09/2025,4724.0,Landlord,Bills,Rent,Debit
+501,Payment of Rs 3914 made to Uber on 25/09/2025 via GPay,25/09/2025,3914.0,Uber,Transport,Ride Sharing,Debit
